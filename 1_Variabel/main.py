@@ -1,4 +1,3 @@
-#🧶🎫🚀🔰🔰⚡🏷🔖📖❗🚩✔❌ 
 # 🔰🔰 VARIABEL
 '''
 variabel adalah tempat atau wadah bernama yang berguna untuk 
@@ -25,10 +24,10 @@ print(nama)
 # - nama variabel tra boleh pake kata kunci python
 
 # ✔ Penamaan yang benar
-nama = "KodingCen"
-nama_depan = "Koding"
-namaBelakang = "Cendrawasih"
-nama1 = "kodingcen"
+nama = 'KodingCen'
+nama_depan = 'Koding'
+namaBelakang = 'Cendrawasih'
+nama1 = 'kodingcen'
 _namaPrivat = 'ozo'
 NAMALENGKAP = 'KODING CENDRAWASIH'
 
@@ -89,7 +88,7 @@ print(n + ' ' + o + ' ' + ' ' + i)
 
 '''
 operator (+) juga tra bisa berfungsi kalo tong menggabungkan atau menambahkan 
-string dengan angka, python akan kas kembali error. kalo tra mu error ya
+string deng angka, python akan kas kembali error. kalo tra mu error ya
 tinggal pake tanda koma (,)
 '''
 str = 'string'
