@@ -1,9 +1,7 @@
-# #🧶🎫🚀🔰🔰⚡🏷🔖📖❗🚩✔❌ 
-
 # 🔰🔰 TIPE DATA ( DATA TYPES )
 '''
 Tipe data adalah konsep yang sangat penting di dalam dunia pemrograman.
-variabel dapat menyimpan data dengan tipe yang berbeda. dan tipe yang berbeda
+variabel dapat menyimpan data deng tipe yang berbeda. dan tipe yang berbeda
 dapat melakukan hal berbeda pula. 
 '''
 
@@ -24,8 +22,8 @@ dapat melakukan hal berbeda pula.
 
 # ⚡ Text Type
 #- str
-str = 'string'
-print('Data String :', str)
+str1 = 'string'
+print('Data String :', str1)
 
 # ⚡ Numeric Types
 #- int
@@ -102,3 +100,22 @@ print('Tipe var nama :', type(nama))
 print('Tipe var usia :', type(usia))
 print('Tipe var sudah menikah :', type(sudahMenikah))
 
+# ⚡ Menetapkan Tipe Data Spesifik
+# untuk menentukan tipe data secara spesifik kitong bisa pake fungsi konstuktor
+
+a = str('Nama')
+b = int(20)
+c = float(1.2)
+d = complex(3j)
+e = list(['python', 'javascript', 'c'])
+f = tuple(('HTML', 'CSS', 'JS'))
+g = range(1, 10)
+h = dict({'nama' : 'KodingCen', 'hobi': 'belajar'})
+i = set((1, 2, 3,2 ,3))
+j = frozenset((1, 2, 4, 2, 3,))
+k = bool(0)
+l = bytes(3)
+m = bytearray(3)
+n = memoryview(bytes(3))
+
+print(k)

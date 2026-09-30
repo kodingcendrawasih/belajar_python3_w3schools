@@ -105,7 +105,7 @@ variabel lokal adalah variabel yang kitorang buat di dalam fungsi.
 de pu perbedaan :
     - variabel global dapat dipakai dimana saja (contohnya variabel-variabel diatas)
     - variabel lokal trada (hanya didalam lingkungan fungsi tempat dia ditetapkan)
-jika kitong memaksa untuk memanggil variabel lokal diluar scope atau lingkungannya,
+jika kitong memaksa untuk memanggil variabel lokal di luar scope atau lingkungannya,
 python akan mengembalikan error. supaya tra error kitong butuh kata kunci "global"
 '''
 
@@ -157,3 +157,4 @@ def f3():
 
 f3()
 print('my crush :', myCrush) # nilainya tetap kalo tong tra panggil fungsi f3()
+
