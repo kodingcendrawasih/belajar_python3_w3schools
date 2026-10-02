@@ -1,4 +1,3 @@
-# #🧶🎫🚀🔰🔰⚡🏷🔖📖🚩❗✔❌ 
 # 🔰🔰 FROZENSET
 '''
 sama seperti set, tapi de bersifat immutable,
@@ -64,3 +63,4 @@ print(FSa.issuperset(FSb)) # False
 print(FSa.issuperset(FSc)) # False
 print(FSa >= FSb) # False
 print(FSb > FSa) # True
+
