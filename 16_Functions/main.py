@@ -1,4 +1,3 @@
-# #🧶🎫🚀🔰🔰⚡🏷🔖📖🚩❗✔❌ 
 # 🔰🔰 FUNCTION (FUNGSI)
 
 # ⚡ Membuat Fungsi
